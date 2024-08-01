@@ -12,6 +12,14 @@ This project integrates Gym, a toolkit for developing and comparing reinforcemen
 - **Gym Integration:** Use Gym's API for reinforcement learning and environment management.
 - **Examples:** Includes sample code and scripts to demonstrate how to control drones and interact with the simulation environment.
 
+
+
+
+
+### Adding Details from the ZIP File
+
+If the ZIP file contains additional specifics like installation steps, configuration details, or examples, make sure to incorporate those details into the `Installation`, `Usage`, and any other relevant sections in the README file. Adjust paths, filenames, and instructions according to the content of your ZIP file.
+
 ## Installation
 
 To get started with the project, follow these installation steps:
